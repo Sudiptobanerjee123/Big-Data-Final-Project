@@ -1,6 +1,5 @@
-# Project-SOEN691-BigData
+# Project BigData
 
-Team 30
 
 # Chicago Crime Dataset 
 Link: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2

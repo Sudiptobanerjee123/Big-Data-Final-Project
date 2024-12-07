@@ -1,4 +1,6 @@
-# Chicago Crime Analysis and Prediction
+# Team Project: Chicago Crime Analysis (Theme #08)
+
+## CSP-554 - Big Data Technologies
 
 ## Team Members
 

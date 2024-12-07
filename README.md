@@ -1,5 +1,16 @@
 # Chicago Crime Analysis and Prediction
 
+## Team Members
+
+| **Name**                     | **Hawk ID**   | **Email**                         |
+|------------------------------|---------------|-----------------------------------|
+| Akshitha Bedre               | A20544641     | abedreshivakumar@hawk.iit.edu     |
+| Fnu Anvika                   | A20561884     | aanvika@hawk.iit.edu              |
+| Koushik Choudary Bhuma       | A20561884     | kbhuma@hawk.iit.edu               |
+| Sudipta Banerjee             | A20460632     | sbanerjee5@hawk.iit.edu           |
+| Srujith Borra               | A20562890     | sborra@hawk.iit.edu               |
+
+
 ## Overview
 
 This project analyzes crime data from Chicago to identify trends in criminal activity and predict future crime incidents. We use machine learning models like K-Nearest Neighbors (KNN) and Random Forest to analyze and predict crime locations based on historical data.
@@ -89,10 +100,6 @@ The dataset used is the Chicago Police Department's crime data from 2001 to 2021
 - Explore deep learning models (CNN, LSTM) for complex pattern recognition
 - Develop a real-time crime prediction system
 - Optimize models for larger datasets and real-time streams
-
-## Contributors
-
-- Sudipto Banerjee
 
 ## Acknowledgments
 

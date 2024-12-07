@@ -100,6 +100,25 @@ The dataset used is the Chicago Police Department's crime data from 2001 to 2021
 - Professor Joseph Rosen for guidance and feedback
 - Illinois Institute of Technology for resources and support
 
-## Citations
-[1] [README.md](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31976576/59be17e4-b9bf-4722-afd2-948c50170700/README.md)  
-[2] [Report Draft](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31976576/d8d619bd-af6c-4642-aca1-9de43e88bb85/report-draft-1.pdf)
+## References
+
+[1] B. Sivanagaleela and S. Rajesh, “Crime analysis and prediction using fuzzy c-means algorithm,” in *2019 3rd International Conference on Trends in Electronics and Informatics (ICOEI)*, 2019, pp. 595–599.
+
+[2] N. V. Chawla, K. W. Bowyer, L. O. Hall, and W. P. Kegelmeyer, “SMOTE: Synthetic minority over-sampling technique,” *Journal of Artificial Intelligence Research*, vol. 16, pp. 321–357, 2002.
+
+[3] Scikit-learn Documentation, “K-nearest neighbors,” 2024. [Online]. Available: [https://scikit-learn.org/stable/modules/neighbors.html](https://scikit-learn.org/stable/modules/neighbors.html)
+
+[4] L. Breiman, “Random forests,” *Machine Learning*, vol. 45, no. 1, pp. 5–32, 2001.
+
+[5] Folium Documentation, “Folium: Python data. leaflet.js maps,” 2024. [Online]. Available: [https://python-visualization.github.io/folium/](https://python-visualization.github.io/folium/)
+
+[6] X. Ma, J. Keung, P. He, Y. Xiao, X. Yu, and Y. Li, “A semisupervised approach for industrial anomaly detection via self-adaptive clustering,” *IEEE Transactions on Industrial Informatics*, vol. 20, no. 2, pp. 1687–1697, 2024.
+
+[7] Nature, “The AI that can beat human players at Dota 2,” *Nature*, November 2020, accessed: 2024-10-19. [Online]. Available: [https://www.nature.com/articles/d41586-020-03348-4](https://www.nature.com/articles/d41586-020-03348-4)
+
+[8] S. Yadav, M. Timbadia, A. Yadav, R. Vishwakarma, and N. Yadav, “Crime pattern detection, analysis & prediction,” in *2017 International Conference of Electronics, Communication and Aerospace Technology (ICECA)*, 2017, pp. 225–230.
+
+[9] R. Yadav and S. K. Sheoran, “Crime prediction using auto regression techniques for time series data,” in *2018 3rd International Conference and Workshops on Recent Advances and Innovations in Engineering (ICRAIE)*, 2018, pp. 1–5.
+
+[10] X. Zhao, H. Yoon, and J. Bae, “Spatio-temporal analysis of crime patterns in urban areas,” *International Journal of Geographical Information Science*, vol. 35, no. 9, pp. 2345–2362, 2021.
+
